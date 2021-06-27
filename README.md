@@ -1,0 +1,2 @@
+# ld-company
+Company Script
